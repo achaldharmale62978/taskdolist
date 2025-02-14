@@ -1,0 +1,66 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.fontsize{
+    font-size: 20px;
+}
+.back1{
+    background-color: rgb(231, 225, 225);
+}
+.card1{
+    background-color: rgb(245, 81, 81);
+    color: rgb(216, 215, 215);
+    
+}
+.boyi{
+    background-image:url('../../../assects/backimg2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+
+.card1_2{
+    color: rgb(253, 250, 250);
+}
+.cardimg1{
+    color: rgb(212, 212, 212);
+    font-size: 30px;
+}
+
+.card2{
+   margin-top: 20px;
+   margin-left: 120px;
+}
+
+.img2_1{
+    border-top: 6px rgb(252, 44, 44) solid;
+    border-right: 6px rgb(252, 44, 44) solid;
+    border-bottom: 6px rgb(252, 44, 44) solid;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+.card2_1{
+    border-top: 8px rgb(252, 44, 44) solid;
+    border-left: 8px rgb(252, 44, 44) solid;
+    border-bottom: 8px rgb(252, 44, 44) solid;
+}
+
+
+.pbu{
+    border-radius: 30px 30px 30px  30px;
+}
+.card3_2{
+    
+}
+.atag{
+    color: black;
+    
+}
+.btnend{
+    border-radius: 30px;
+}
+.checkbox{
+    background-color: rgb(248, 210, 210);
+}
